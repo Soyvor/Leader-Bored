@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "server": "json-server --watch db.json --port 5000"
+  },
+  "dependencies": {
+    "@remix-run/router": "^1.19.1",
+    "chart.js": "^4.4.4",
+    "react-chartjs-2": "^5.2.0",
+    "react-router": "^6.8.0",
+    "react-router-dom": "^6.8.0"
+  }
+}

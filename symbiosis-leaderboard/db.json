@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "email": "student@sitpune.edu.in",
+      "prn": "123456",
+      "githubCommits": 100,
+      "leetcodeProblems": 20,
+      "marks": 85,
+      "events": 3,
+      "hackathons": 2,
+      "id": "e90c"
+    },
+    {
+      "id": "19c1",
+      "email": "yajushreshtha.shukla.btech2021@sitpune.edu.in",
+      "prn": "21070122187",
+      "githubCommits": 0,
+      "leetcodeProblems": 0,
+      "marks": 0,
+      "events": 0,
+      "hackathons": 0
+    }
+  ],
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "Student One",
+      "githubCommits": 150,
+      "leetcodeProblems": 30,
+      "marks": 90,
+      "events": 5,
+      "hackathons": 3,
+      "id": "b7bb"
+    },
+    {
+      "rank": 2,
+      "name": "Student Two",
+      "githubCommits": 120,
+      "leetcodeProblems": 25,
+      "marks": 85,
+      "events": 4,
+      "hackathons": 2,
+      "id": "6f95"
+    }
+  ]
+}
